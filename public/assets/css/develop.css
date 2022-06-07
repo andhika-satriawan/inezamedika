@@ -1,0 +1,24 @@
+/* HEADER */
+header#header .header-content .logo a img {
+    max-width: max-content;
+    width: auto;
+    border-radius: 50%;
+}
+
+header#header {
+    background: rgba(0, 0, 0, 0.6);
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    backdrop-filter: saturate(180%) blur(20px);
+}
+/* END HEADER */
+
+/* MODAL */
+
+/* END MODAL */
+
+
+/* FOOTER */
+footer.footer .logo img {
+    border-radius: 50%;
+}
+/* END FOOTER */
